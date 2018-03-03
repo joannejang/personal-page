@@ -1,0 +1,26 @@
+a {
+	text-decoration: none;
+}
+
+.gray_block {
+	height: 1px;
+	border-bottom: 5px solid gray;
+}
+
+.photo {
+	width: 300px;
+}
+.social_media_icon {
+	width: 60px;
+	height: 60px;
+	margin-right: 10px;
+}
+
+.social_media_icon:hover {
+	opacity: 1;
+	-webkit-transform: scale(1.2);
+}
+
+#joanne_doodle_icon {
+	border-radius: 60px;
+}
